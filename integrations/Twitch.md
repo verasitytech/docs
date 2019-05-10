@@ -3,7 +3,7 @@
  
 1. Add SDK script tag to the page
 ```
-<script src=“https://nobuffer.net/sdk/kilosdk.js"></script>
+<script src="https://nobuffer.net/sdk/kilosdk.js"></script>
 ```
 
 2. Add placeholder div for embedding Twitch Player
