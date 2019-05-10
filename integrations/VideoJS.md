@@ -9,7 +9,7 @@
 
 2. Add SDK script tag to the page
 ```
-<script src=“https://nobuffer.net/sdk/kilosdk.js"></script>
+<script src="https://nobuffer.net/sdk/kilosdk.js"></script>
 ```
 
 3. Add video element to the page
