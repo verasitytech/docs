@@ -12,9 +12,9 @@
 ```
 
 3. Add iframe for the video you want to use
-3.1. Get the iframe code. On the Youtube video page: Share > Embed
-3.2. Add the id parameter to the iframe element
-3.3. Enable Youtube Iframe API: add ```?enablejsapi=1``` to the video URL parameter
+	1. Get the iframe code. On the Youtube video page: Share > Embed
+	2. Add the id parameter to the iframe element
+	3. Enable Youtube Iframe API: add ```?enablejsapi=1``` to the video URL parameter
 
 4. Create the function that will run once the Youtube API finished loading (use exact name, as per Youtube API)
 ```
