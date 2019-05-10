@@ -16,19 +16,20 @@
 4. Setup JWPlayer
 ```
 jwplayer(<div element id (step 3)>).setup({
-		file: <video URL>,
-		Image: <poster URL>,
-		height: <video height>,
-		width: <video width>
+	file: <video URL>,
+	Image: <poster URL>,
+	height: <video height>,
+	width: <video width>
 });
 ```
 
 5. Initialise SDK
 ```
 kilosdk.init({
-		videoId: <unique video id>,
-		player: { type: 'JWPlayer',
-			instance: jwplayer(<div element id (step 3)>)},
-		modules: [{type: 'Reward'}]
+	videoId: <unique video id>,
+	player: { type: 'JWPlayer',
+		instance: jwplayer(<div element id (step 3)>)
+	},
+	modules: [{type: 'Reward'}]
 });
 ```

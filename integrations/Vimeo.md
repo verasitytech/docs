@@ -16,21 +16,21 @@
 4. Create Vimeo Player instance and pass it to SDK
 ```
 instance: new Vimeo.Player(document.getElementById(<div element id>), {
-		url: <vimeo video URL>,
-		width: <player width>
+	url: <vimeo video URL>,
+	width: <player width>
 });
 ```
 
 5. Initialise SDK
 ```
 kilosdk.init({
-		videoId: <unique video id>,
-		player: { type: 'VimeoPlayer',
-			instance: new Vimeo.Player(
-					document.getElementById(<div element id>),
-					{url: <vimeo video URL>, width: <player width>}
-			)
-		},
-		modules: [{type: 'Reward'}]
+	videoId: <unique video id>,
+	player: { type: 'VimeoPlayer',
+		instance: new Vimeo.Player(
+			document.getElementById(<div element id>),
+			{url: <vimeo video URL>, width: <player width>}
+		)
+	},
+	modules: [{type: 'Reward'}]
 });
 ```

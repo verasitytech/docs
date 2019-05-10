@@ -11,9 +11,10 @@
 3. Initialise SDK
 ```
 kilosdk.init({
-		videoId: <unique video id>,
-		player: { type: 'VideoJSPlayer',
-			instance: videojs(<brightcode element id>)},
-		modules: [{type: 'Reward'}]
+	videoId: <unique video id>,
+	player: { type: 'VideoJSPlayer',
+		instance: videojs(<brightcode element id>)
+	},
+	modules: [{type: 'Reward'}]
 });
 ```

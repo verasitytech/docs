@@ -16,18 +16,19 @@
 4. Create Twitch Player object
 ```
 new Twitch.Player(<placeholder div id (from step 2)>, {
-		width: <player width>,
-		height: <player height>,
-		video: <video ID from Twitch>
+	width: <player width>,
+	height: <player height>,
+	video: <video ID from Twitch>
 });
 ```
 
 5. Initialise SDK
 ```
 kilosdk.init({
-		videoId: <unique video id>,
-		player: { type: 'TwitchPlayer',
-			instance: <Twitch Player instance>,
-		modules: [{type: 'Reward'}]
+	videoId: <unique video id>,
+	player: { type: 'TwitchPlayer',
+		instance: <Twitch Player instance>,
+	},
+	modules: [{type: 'Reward'}]
 });
 ```

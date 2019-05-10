@@ -11,9 +11,10 @@
 3. Initialise SDK
 ```
 kilosdk.init({
-		videoId: <unique video id>,
-		player: { type: 'FlowplayerPlayer',
-			instance: <flowplayer div element>},
-		modules: [{type: 'Reward'}]
+	videoId: <unique video id>,
+	player: { type: 'FlowplayerPlayer',
+		instance: <flowplayer div element>
+	},
+	modules: [{type: 'Reward'}]
 });
 ```

@@ -24,10 +24,11 @@ function onYouTubeIframeAPIReady() {}
 5. Initialise SDK
 ```
 kilosdk.init({
-		videoId: <unique video id>,
-		player: { type: 'YoutubePlayer',
-			instance:  <iframe id>,
-		modules: [{type: 'Reward'}]
+	videoId: <unique video id>,
+	player: { type: 'YoutubePlayer',
+		instance:  <iframe id>,
+	},
+	modules: [{type: 'Reward'}]
 });
 ```
 
@@ -54,19 +55,20 @@ function onYouTubeIframeAPIReady() {}
 5. Create Youtube Player instance
 ```
 let player = new YT.Player(<placeholder div id>, {
-		height: <video height>,
-		width: <video width>,
-		videoId: <Youtube video id>
+	height: <video height>,
+	width: <video width>,
+	videoId: <Youtube video id>
 });
 ```
 
 6. Initialise SDK
 ```
 kilosdk.init({
-		videoId: <unique video id>,
-		player: { type: 'YoutubePlayer',
-			instance:  <Youtube player instance>,
-		modules: [{type: 'Reward'}]
+	videoId: <unique video id>,
+	player: { type: 'YoutubePlayer',
+		instance:  <Youtube player instance>,
+	},
+	modules: [{type: 'Reward'}]
 });
 ```
 
