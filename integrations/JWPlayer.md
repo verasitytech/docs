@@ -3,12 +3,12 @@
  
 1. Add SDK script tag to the page
 ```
-<script src=“https://nobuffer.net/sdk/kilosdk.js"></script>
+<script src="https://nobuffer.net/sdk/kilosdk.js"></script>
 ```
 
 2. Add JWPlayer script tag to the page
 ```
-<script src=“https://content.jwplatform.com/libraries/<your JWPlayer lib ID>.js"></script>
+<script src="https://content.jwplatform.com/libraries/<your JWPlayer lib ID>.js"></script>
 ```
 
 3. Add placeholder div element for embedding JWPlayer
