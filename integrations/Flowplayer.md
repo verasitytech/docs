@@ -1,5 +1,5 @@
 # Flowplayer Integration
-/img/Flowplayer.png
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/integrations/img/Flowplayer.png)
  
 1. Add SDK script tag to the page
 ```

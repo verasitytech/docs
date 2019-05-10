@@ -1,5 +1,5 @@
 # Youtube - integration with iframe
-/img/Youtube_iframe.png
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/integrations/img/Youtube_iframe.png)
  
 1. Add Youtube Iframe API script tag to the page
 ```
@@ -32,7 +32,7 @@ kilosdk.init({
 ```
 
 # Youtube - integration with Youtube Player API
-/img/Youtube_api.png
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/integrations/img/Youtube_api.png)
  
 1. Add Youtube Iframe API script tag to the page
 ```

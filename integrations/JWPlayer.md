@@ -1,5 +1,5 @@
 # JWPlayer Integration
-/img/JWPlayer.png
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/integrations/img/JWPlayer.png)
  
 1. Add SDK script tag to the page
 ```

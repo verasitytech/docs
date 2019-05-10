@@ -1,5 +1,5 @@
 # Video JS Integration
-/img/VideoJS.png
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/integrations/img/VideoJS.png)
  
 1. Add VideoJS stylesheet and script tags to the page
 ```

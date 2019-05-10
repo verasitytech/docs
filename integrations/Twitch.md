@@ -1,5 +1,5 @@
 # Twitch Player integration
-/img/Twitch.png
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/integrations/img/Twitch.png)
  
 1. Add SDK script tag to the page
 ```

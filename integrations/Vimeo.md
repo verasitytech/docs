@@ -1,5 +1,5 @@
 # Vimeo Player Integration
-/img/Vimeo.png
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/integrations/img/Vimeo.png)
  
 1. Add SDK script tag to the page
 ```

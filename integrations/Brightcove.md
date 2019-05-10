@@ -1,5 +1,5 @@
 # Brightcove Integration
-/img/Brightcove.png
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/integrations/img/Brightcove.png)
  
 1. Add SDK script tag to the page
 ```

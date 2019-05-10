@@ -1,1 +1,1 @@
-Choose .pdf with corresponding video player name.
+Choose .md with corresponding video player name.
