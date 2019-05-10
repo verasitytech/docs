@@ -8,7 +8,7 @@
 
 2. Add SDK script tag to the page
 ```
-<script src=“https://nobuffer.net/sdk/kilosdk.js"></script>
+<script src="https://nobuffer.net/sdk/kilosdk.js"></script>
 ```
 
 3. Add iframe for the video you want to use
@@ -41,7 +41,7 @@ kilosdk.init({
 
 2. Add SDK script tag to the page
 ```
-<script src=“https://nobuffer.net/sdk/kilosdk.js"></script>
+<script src="https://nobuffer.net/sdk/kilosdk.js"></script>
 ```
 
 3. Create a placeholder div for embedding Youtube Player
