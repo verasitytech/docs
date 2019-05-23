@@ -14,3 +14,13 @@ We are working on expanding the list of supported players 24/7
 JavaScript API documentation available for your convenience if you are looking for deeper integration of rewarding module with your web site.
 
 New features are considered upon request.
+
+
+# Online Video Platform Specifications
+
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/img/verasity_ovp_1.png)
+
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/img/verasity_ovp_2.png)
+
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/img/verasity_ovp_3.png)
+
