@@ -58,6 +58,14 @@ emitted when rewarding module tries to reward the user only occurs for signed in
 
 `data.playerId` - an id that identifies particular player instance on the page, if not set explicitly on SDK instantiation - will be random number
 
+`data.rewardAmount`- current reward amount
+
+`data.earnedDuringInterval`- total reward given to current user during reward capping interval (i.e. total tokens earned by user during last 24h)
+
+`data.cap`- maximum reward that can be earned by user during capping interval (i.e. no more than 100 tokens during 24h)
+
+`data.intervalLength`- capping interval duration in minutes
+
 #### 'videoComplete'
 emitted at the very end of video content playback, means that viewer has reached 100% mark of video content timeline
 
