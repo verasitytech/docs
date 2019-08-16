@@ -1,5 +1,5 @@
 # Youtube - integration with iframe
-![image](https://github.com/verasitytech/docs/blob/master/integrations/img/youtube_player_integration_with_iframe.png)
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/integrations/img/youtube_player_integration_with_iframe.png)
 
     <script src="https://nobuffer.net/sdk/kilosdk.js"></script>
     <iframe id="[YOUTUBE_PLAYER_CONTAINER_ID]" src="[YOUTUBE_PLAYER_SRC]?enablejsapi=1"></iframe>
@@ -35,7 +35,7 @@
     });
 
 # Youtube - integration with Youtube Player API
-![image](https://github.com/verasitytech/docs/blob/master/integrations/img/youtube_player_integration_with_player_api_result.png)
+![image](https://raw.githubusercontent.com/verasitytech/docs/master/integrations/img/youtube_player_integration_with_player_api_result.png)
 
     <script src="https://nobuffer.net/sdk/kilosdk.js"></script>
     <div id="[YOUTUBE_PLAYER_CONTAINER_ID]"></div>
